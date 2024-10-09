@@ -1,0 +1,66 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  
+  body{
+    
+    background: #FFEEEE;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #DDEFBB, #FFEEEE);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #DDEFBB, #FFEEEE); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  .div1{
+    border: 3px solid black;
+    border-radius: 10%;
+    margin: 10%;
+  
+  }
+
+  ul{
+    list-style: none;
+  }
+
+  .imagenes {
+    border-radius: 40px;
+    text-align: center;
+    margin-top: 5%;
+  }
+
+  .grito {
+    width: 80%;
+  }
+
+  .tiempo {
+    width: 80%;
+  }
+
+  .monalisa {
+    width:80% ;
+  }
+
+  .estrellas {
+    width: 50%;
+  }
+
+  .frida {
+    width: 50%;
+  }
+
+  .picasso {
+    width: 50%;
+  }
+  
+  .van-gohn {
+    width: 50%;
+  }
+
+  .vinci {
+    width: 80%;
+  }
