@@ -1,6 +1,6 @@
 # Streambe-GeneracionT
 
-###Trabajo práctico 1
+### Trabajo práctico 1
 - Juego de desiciones
 En el primer trabajo hice un juego de toma desiciones implementando unicamente HTML. Para la eleccion de opciones vincule el index original a otros archivos html, con el proposito de que cuando se tome una desición la página te dirija a otra.
 
@@ -8,13 +8,13 @@ En el primer trabajo hice un juego de toma desiciones implementando unicamente H
 - CSS
 En esta pagina agregue css, trabajando áreas como el fondo de la pantalla, el tamaño y lugar de las imágenes así como el de los textos, también implemente bordes a la página.
 
-###Trabajo práctico 3
+### Trabajo práctico 3
 - Copia
 En este trabajo la consiga era copiar una página enviada por el profesor y que quede lo más parecido posible.
 
-###Trabajo práctico 4
+### Trabajo práctico 4
 - Formulario
-- Diseñe un formulario utilizando css, trabajando temas como input,button,password,etc. Y al final agregue un prestador de backend que envía los formularios a mi cuenta.
+  Diseñe un formulario utilizando css, trabajando temas como input,button,password,etc. Y al final agregue un prestador de backend que envía los formularios a mi cuenta.
 
 ### Trabajo práctico 5
 - Portfolio
