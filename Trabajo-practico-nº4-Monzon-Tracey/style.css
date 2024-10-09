@@ -1,0 +1,56 @@
+body{
+    background-image: url('./img/fondo.png');
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    background-position: center;
+}
+
+
+.formulario {
+    background-color: rgba(9, 195, 241, 0.568) ;
+    width: 500px;
+    border: 3px rgba(9, 195, 241, 0.897) ;
+    border-radius: 10%;
+    text-align: center;
+    white-space: pre-line;
+    margin: 0 auto; 
+    /* display: flex;
+    justify-content: center; 
+    align-items: center;  */
+}
+
+label{
+    font-size: 1rem;
+    display: block;
+   
+}
+
+input, select { 
+    width: 40%;
+    height: 3rem;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 1.30rem;
+}
+
+input:focus {
+    box-shadow: rgba(42, 7, 105, 0.56) 0px 5px 10px 4px;
+}
+
+input[type="submit"]{
+    background-color:rgb(44, 57, 230);
+    font-size: 1.50rem;
+}
+
+/* input[type="radio"]{
+    width: auto;
+    height: 2rem;
+
+} */
+textarea{
+    width: 80%;
+    height: 13rem;
+    border-radius: 20px;
+    font-size: 1rem;
+    resize: none;
+}
