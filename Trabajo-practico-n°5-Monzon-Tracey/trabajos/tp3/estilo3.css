@@ -1,0 +1,42 @@
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+nav{
+    position: fixed;
+    border: 1px solid black;
+    border-radius: 100%;
+    border-top-left-radius: 0;
+    padding: 20px;  
+}
+
+.decoracion{
+    height: 100vh;
+    display: flex;
+    border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+}
+
+.texto{
+    text-align: center;
+    width: 50%;
+}
+
+nav:hover{
+    background-color: cadetblue;
+}
+
+.texto:active{
+letter-spacing: 5rem;
+color: rgb(0, 255, 0);
+background-color: black;
+}
+
+ul{
+  list-style-type: georgian;
+}
+
+

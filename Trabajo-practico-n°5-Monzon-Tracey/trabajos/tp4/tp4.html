@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+    <link rel="stylesheet" href="estilo4.css">
+    <link rel="icon" type="image/png" href="./img4/icon.png">
+</head>
+<body>
+<div>
+    <div class="formulario" >
+        <form  action="https://formspree.io/f/mdoqrbzq" method="post">
+            <label>Nombre:
+                <input type="text" name="nombre" required>
+            </label>
+
+            <label>Email:
+                <input type="email" name="email"  required >
+            </label>
+
+            <label>Contraseña:
+                <input type="password" name="password" required>
+            </label>
+
+            <label for="fecha">Fecha de nacimiento</label>
+            <input type="date" name="fecha" id="fecha" required>
+
+        <label for="">¿Cual es tu estacion favorita del año?
+            <select name="opcio" required>
+                <option disabled>elegir</option>
+                <option value="o">Verano</option>
+                <option value="j">Primavera</option>
+                <option value="j">Invierno</option>
+                <option value="u">Otoño</option>
+                <option value="j">No tengo</option>
+            </select>
+        </label>
+
+        <label>Hacer una breve descripción sobre vos
+            <textarea name="hist" required></textarea>
+        </label>
+        <input type="submit" value="Enviar">
+        </form>
+    </div>
+</div>
+
+<footer>
+
+</footer>
+
+</body>
+</html>
