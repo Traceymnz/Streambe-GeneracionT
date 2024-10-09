@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    margin-bottom: 20%;
+}
+
+#field {
+    height: 100px;
+    border-bottom: 3px black groove;
+    position: relative;
+  }
+  
+  #ball {
+    position: absolute;
+    cursor: pointer;
+  }
