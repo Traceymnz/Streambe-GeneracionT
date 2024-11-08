@@ -30,12 +30,15 @@ En esta página agregué mas javaScript, trabajando especificamente en el DOM te
 
 ### Trabajo FINAL, proyecto calendario
 - Integrantes
-- 
+  
   Monzon Tracey
   
   Rosso Aylen
+  
   Silva Morena
+  
   Blanc Alexis
+  
   Dominguez Lisandro
 
 El objetivo de nuestro trabajo desde un principio fue crear un calendario que permita al usuario guardar eventos. Para poder alcanzar este objetivo utilizamos herramientas como PHP,SQL,CSS,HTML y a medida que avanzabamos logramos comunicar nuestras opiniones e ideas del proyecto a través de un grupo de Whatsapp o en clases, en los que también se charló acerca de la división de las tareas, nos separamos áreas como la base de datos, de los cuales se encargaron Aylen y Alexis, como también la parte de PHP que fue programandose por Morena,Lisandro y Tracey en el transcurso de las 3 semanas que nos llevó terminar el trabajo.
